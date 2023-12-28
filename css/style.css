@@ -1409,7 +1409,7 @@ textarea.is-invalid {
 @media (max-width: 400px) {
   .mobile-menu-wrapper .mobile-menu-area {
     width: 100%;
-    max-width: 270px;
+    max-width: 380px;
   }
 }
 /*------------------- 2.5. Desk Menu -------------------*/
@@ -5505,7 +5505,7 @@ ul.wp-block-latest-posts li:last-child {
 }
 @media (max-width: 575px) {
   .header-layout3 .sticky-wrapper {
-    padding: 15px 0px;
+    padding: 28px 0px;
   }
 }
 
